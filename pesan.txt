@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 ini isi pesan untuk 1stbranch
+=======
+Ini adalah file pesan didalam branch 2ndbranch 
+pesan ini hanya untuk ditulis, bukan dibaca
+>>>>>>> 2ndbranch
